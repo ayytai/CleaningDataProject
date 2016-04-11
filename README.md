@@ -36,3 +36,8 @@ The script runs through the following steps to product the final output file:
    of each variable for each activity and each subject.
    The data file is called tidy_data_set.txt and it will be found inside the working directory inside the 
    Samsung data folder.
+   
+To run the script, first go to the directory where the script is located. Then execute the following commands: <br/>
+
+source("./run_analysis.R") <br/>
+run()
