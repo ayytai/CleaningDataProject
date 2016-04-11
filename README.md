@@ -18,6 +18,8 @@ https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Datas
 Please note that the data must be downloaded and unzipped into the R working directory of the user.
 E.g. C:/Users/john/Documents/UCI HAR Dataset
 
+If the data does not exist in the working directory, the script is halted.
+
 ### How does the script work?
 
 The script runs through the following steps to product the final output file:
