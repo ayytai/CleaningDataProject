@@ -39,5 +39,5 @@ The script runs through the following steps to product the final output file:
    
 To run the script, first go to the directory where the script is located. Then execute the following commands: <br/>
 
-source("./run_analysis.R") <br/>
-run()
+<code>source("./run_analysis.R")</code><br/>
+<code>run()</code>
